@@ -227,7 +227,7 @@ TABLE
   2
 LAYER
   5
-A16
+A1B
 330
 0
 100
@@ -237,9 +237,9 @@ AcDbSymbolTable
   0
 LAYER
   5
-A17
+A1C
 330
-A16
+A1B
 100
 AcDbSymbolTableRecord
 100
@@ -255,9 +255,9 @@ CONTINUOUS
   0
 LAYER
   5
-A18
+A1D
 330
-A16
+A1B
 100
 AcDbSymbolTableRecord
 100
@@ -273,15 +273,15 @@ CONTINUOUS
   0
 LAYER
   5
-A19
+A1E
 330
-A16
+A1B
 100
 AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Sketch
+Sketch001
  70
     0
  62
@@ -707,7 +707,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbLine
  10
@@ -731,7 +731,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbLine
  10
@@ -755,7 +755,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbLine
  10
@@ -779,7 +779,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbLine
  10
@@ -803,7 +803,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbCircle
  10
@@ -823,7 +823,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbCircle
  10
@@ -843,7 +843,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbCircle
  10
@@ -863,7 +863,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbCircle
  10
@@ -883,7 +883,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbCircle
  10
@@ -903,7 +903,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbCircle
  10
@@ -923,7 +923,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbLine
  10
@@ -947,7 +947,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbLine
  10
@@ -971,7 +971,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbLine
  10
@@ -995,7 +995,7 @@ A02
 100
 AcDbEntity
   8
-Sketch
+Sketch001
 100
 AcDbLine
  10
@@ -1010,6 +1010,106 @@ AcDbLine
 330.200000000
  31
 0.000000000
+  0
+CIRCLE
+  5
+A16
+330
+A02
+100
+AcDbEntity
+  8
+Sketch001
+100
+AcDbCircle
+ 10
+177.800000000
+ 20
+177.800000000
+ 30
+0.000000000
+ 40
+40.005000000
+  0
+CIRCLE
+  5
+A17
+330
+A02
+100
+AcDbEntity
+  8
+Sketch001
+100
+AcDbCircle
+ 10
+177.800000000
+ 20
+128.828800000
+ 30
+0.000000000
+ 40
+1.803400000
+  0
+CIRCLE
+  5
+A18
+330
+A02
+100
+AcDbEntity
+  8
+Sketch001
+100
+AcDbCircle
+ 10
+220.210303254
+ 20
+202.285600000
+ 30
+0.000000000
+ 40
+1.803400000
+  0
+CIRCLE
+  5
+A19
+330
+A02
+100
+AcDbEntity
+  8
+Sketch001
+100
+AcDbCircle
+ 10
+135.389696746
+ 20
+202.285600000
+ 30
+0.000000000
+ 40
+1.803400000
+  0
+CIRCLE
+  5
+A1A
+330
+A02
+100
+AcDbEntity
+  8
+Sketch001
+100
+AcDbCircle
+ 10
+-177.800000000
+ 20
+0.000000000
+ 30
+0.000000000
+ 40
+4.508500000
   0
 ENDSEC
   0
